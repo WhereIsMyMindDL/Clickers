@@ -1,0 +1,9 @@
+selenium-wire==4.6.3
+times==0.7
+fake-useragent==0.1.11
+selenium==4.1.3
+threaded==4.1.0
+logging==0.4.9.6
+
+
+
